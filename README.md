@@ -1,7 +1,6 @@
 - Hi I'm @FiATZ
 - Interested in scripting, but I'm just getting started
 - I finished 9th grade and will be studying to be a programmer in Kharkov, Ukraine.
-- I want to cooperate with SA-MP company.
 - You can write me an email: verveg12@gmail.com
 
 <!---
