@@ -1,6 +1,5 @@
 - Hi I'm @FiATZ
 - Interested in scripting, but I'm just getting started
-- I study at the Kharkiv Polytechnic College
 - I have a lot of ideas, but little knowledge
 - You can write me an email: verveg12@gmail.com
 
